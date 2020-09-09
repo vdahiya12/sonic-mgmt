@@ -24,7 +24,7 @@ STATUS_LED_COLOR_RED = "red"
 STATUS_LED_COLOR_OFF = "off"
 
 
-class TestFan_drawer_DrawerApi(PlatformApiTestBase):
+class TestFanDrawerApi(PlatformApiTestBase):
 
     num_fan_drawers = None
 
